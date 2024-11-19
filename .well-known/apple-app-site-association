@@ -3,12 +3,38 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["J5LYW3ZCQZ.com.compass.CompassAppClip"],
-        "paths": ["/", "/products/*", "/clip"]
+        "appIDs": [
+          "J5LYW3ZCQZ.com.compass.CompassAppClip"
+        ],
+        "paths": [
+          "/",
+          "/products/*",
+          "/clip"
+        ]
       },
       {
-        "appIDs": ["J5LYW3ZCQZ.com.compass.CompassAppClip.Clip"],
-        "paths": ["/clip", "/promo/*"]
+        "appIDs": [
+          "J5LYW3ZCQZ.com.compass.CompassAppClip.Clip"
+        ],
+        "paths": [
+          "/clip",
+          "/promo/*"
+        ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "J5LYW3ZCQZ.com.compass.CompassAppClip.Clip"
+        ],
+        "paths": [
+          "/",
+          "/products/*",
+          "/clip"
+        ]
       }
     ]
   }
